@@ -2,8 +2,8 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
+  name: 'Jobfrenly',
+  shortName: 'Jobfrenly',
   description: 'My blog description goes here...',
   direction: 'auto',
   language: 'en-US',
@@ -32,12 +32,12 @@ export default {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: '0dcaae9f-4485-4e48-b211-a1c87739132f',
       allowLocalhostAsSecureOrigin: true,
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.jobfrenly.com',
 } satisfies Config;
