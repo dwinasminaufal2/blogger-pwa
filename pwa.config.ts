@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'Jobfrenly',
   shortName: 'Jobfrenly',
-  description: 'My blog description goes here...',
+  description: 'Deskripsi blog di sini...',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
