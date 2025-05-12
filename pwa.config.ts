@@ -17,16 +17,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Lowongan Kerja di Tangerang Selatan',
+      shortName: 'Lowongan Kerja di Tangerang Selatan',
+      description: 'Lowongan kerja terbaru dari Jobfrenly.com',
+      url: '/search/label/Tangerang%20Selatan?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Lowongan Kerja di JABODETABEK',
+      shortName: 'Lowongan Kerja di JABODETABEK',
+      description: 'Lowongan kerja terbaru dari Jobfrenly.com',
+      url: '/search/label/JABODETABEK?utm_source=homescreen',
     },
   ],
   pwa: {
