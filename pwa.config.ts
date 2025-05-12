@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'Jobfrenly',
   shortName: 'Jobfrenly',
-  description: 'Deskripsi blog di sini...',
+  description: 'Aplikasi super ringan, hemat kuota, cepat, dan minim iklan. Nikmati berita terkini dengan notifikasi instan, tampilan yang nyaman, serta akses offline. Klik untuk instal dan dapatkan informasi terupdate!',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
